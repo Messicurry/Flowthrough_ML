@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this code or the dataset, please cite the paper.
+title: Flowthrough_ML
+authors:
+  - family-names: He
+    given-names: Yuxiang
+license: MIT
+repository-code: https://github.com/Messicurry/Flowthrough_ML
+preferred-citation:
+  type: article
+  title: Physics-informed grey-box prediction of single-pass pollutant removal in electrochemical flow-through reactors
+  authors:
+    - family-names: He
+      given-names: Yuxiang
+    - family-names: Guo
+      given-names: Yun
+    - family-names: Wang
+      given-names: Zhiwei
+    - family-names: Wang
+      given-names: Li
+  journal: Desalination
+  year: 2026
+  doi: 10.1016/j.desal.2026.120834
